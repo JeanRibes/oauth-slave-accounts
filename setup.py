@@ -31,5 +31,5 @@ setup(
             'Topic :: Internet :: WWW/HTTP',
             'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
         ],
-        version='0.1'
+        version='0.1.1'
 )
